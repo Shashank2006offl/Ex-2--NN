@@ -1,6 +1,6 @@
 <H3>Name : Shashank r</H3>
 <H3>Register no: 212223230205</H3>
-<H3>Date : 11/09/2025</H3>
+<H3>Date : 30/09/2025</H3>
 <H3>Experiment No. 2 </H3>
 <H3>
 Implementation of Perceptron for Binary Classification
